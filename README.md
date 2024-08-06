@@ -8,4 +8,4 @@ To fold:
   Say "fold".
 To go all-in:
   Say "all in"
-After completeing a round, either say "exit" to exit the sim, or "play" to start another round.
+After complteing a round, either say "exit" to exit the sim, or "play" to start another round.
